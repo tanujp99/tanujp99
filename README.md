@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-pointer-events:none
-</style>
-
 <div align="center">
 <img align="center" width=450 src="https://readme-typing-svg.herokuapp.com?color=%2347E10C&size=22&center=true&vCenter=true&width=450&lines=Meet+me+over+Coffee+%3A);just+a+n00b+programmer">
 </div>
