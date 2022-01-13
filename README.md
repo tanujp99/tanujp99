@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tanujp99&theme=chalk&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true)]
+![trophy](https://github-profile-trophy.vercel.app/?username=tanujp99&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=chalk&column=3&margin-w=75&margin-h=15&no-bg=true&no-frame=true)
