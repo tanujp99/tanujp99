@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tanujp99/tanujp99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tanujp99)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tanujp99&theme=chalk&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true)]
