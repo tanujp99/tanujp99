@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
 <div align="center">
 <img align="center" width=450 src="https://readme-typing-svg.herokuapp.com?color=%2347E10C&size=22&center=true&vCenter=true&width=450&lines=Meet+me+over+Coffee+%3A);just+a+n00b+programmer">
 </div>
@@ -35,11 +39,24 @@ Here are some ideas to get you started:
 <br>
 
 <div>
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/tanujp99?label=Github&style=social">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/tanujp99?label=Twitter&style=social">
-  <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/carminecrown?label=%E2%80%8Eu%2Fcarminecrown&style=social">
-  <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/tanujp?label=%E2%80%8F%E2%80%8F%E2%80%8E%20%E2%80%8Eu%2Ftanujp&style=social">
-  <img alt="Twitch Status" src="https://img.shields.io/twitch/status/CarmineCrown?style=social">
+  <a href="https://github.com/tanujp99" target="blank"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/tanujp99?label=Github&style=social"> </a>
+  <a href="https://twitter.com/tanujp99" target="blank"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/tanujp99?label=Twitter&style=social"> </a>
+  <a href="https://www.reddit.com/user/CarmineCrown" target="blank"> <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/carminecrown?label=%E2%80%8Eu%2Fcarminecrown&style=social"> </a>
+  <a href="https://www.reddit.com/user/tanujp" target="blank"> <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/tanujp?label=%E2%80%8F%E2%80%8F%E2%80%8E%20%E2%80%8Eu%2Ftanujp&style=social"> </a>
+  <a href="https://www.twitch.tv/CarmineCrown" target="blank"> <img alt="Twitch Status" src="https://img.shields.io/twitch/status/CarmineCrown?style=social"> </a>
+  <a href="https://open.spotify.com/user/kpp010?si=VB36HuQZQ8-qG0p5Eyu3Lg" target="blank"> <img alt="Spotify" src="https://img.shields.io/twitch/status/CarmineCrown?style=social"> </a>
+  
+  
+<div class="footer-social-icons">
+    <ul class="social-icons">
+        <li><a href="https://twitter.com/tanujp99" class="social-icon"> <i class="fa fa-twitter"></i></a></li>
+        <li><a href="" class="social-icon"> <i class="fa fa-linkedin"></i></a></li>
+        <li><a href="" class="social-icon"> <i class="fa fa-github"></i></a></li>
+    </ul>
+</div>
+
   
   
   
+  </body>
+</html>
