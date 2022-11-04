@@ -70,7 +70,7 @@ COVID help
   <!--   Spotify -->
   <a href="https://open.spotify.com/user/kpp010?si=VB36HuQZQ8-qG0p5Eyu3Lg" target="blank"> <img alt="Spotify URL" src="https://img.shields.io/twitter/url?label=spotify&logo=spotify&style=social&url=https%3A%2F%2Fopen.spotify.com%2Fuser%2Fkpp010%3Fsi%3DVB36HuQZQ8-qG0p5Eyu3Lg"> </a>
 <!--   Paypal -->
-  <a href="https://paypal.me/tanujp99" target="blank"> <img alt="Donate to buy me a cup of coffee" src="https://img.shields.io/twitter/url?label=paypal&logo=paypal&style=social&url=https%3A%2F%2Fpaypal.me%2Ftanujp99"> </a>
+  <a href="https://paypal.me/ptanuj" target="blank"> <img alt="Donate to buy me a cup of coffee" src="https://img.shields.io/twitter/url?label=paypal&logo=paypal&style=social&url=https%3A%2F%2Fpaypal.me%2Ftanujp99"> </a>
 <!--   Patreon -->
   <a href="https://patreon.com/user?0=u&1=%3D&2=6&3=7&4=8&5=2&6=1&7=0&8=1&9=4&utm_medium=social&utm_source=twitter&utm_campaign=creatorshare" target="blank"> <img alt="Support me on Patreon" src="https://img.shields.io/twitter/url?label=patreon&logo=patreon&style=social&url=https%3A%2F%2Fpatreon.com%2Fuser%3F0%3Du%261%3D%253D%262%3D6%263%3D7%264%3D8%265%3D2%266%3D1%267%3D0%268%3D1%269%3D4%26utm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Dcreatorshare"> </a>
   
