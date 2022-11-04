@@ -33,14 +33,14 @@ Here are some ideas to get you started:
 </div>
 
 <br><br><br><br><br>
-
+<!-- 
 <div align="right">
 <a href="https://indiafightscorona.giveindia.org">
 <img width="125" src="https://d2wvdrxmr8p0wf.cloudfront.net/static/giveindia.svg" alt="Leave no one Behind: COVID19" />
 </a>
 <br margin="0">
 COVID help
-</div>
+</div> -->
 
 <br>
 
