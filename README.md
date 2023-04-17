@@ -52,7 +52,7 @@ COVID help
 <!--   LinkedIn -->
   <a href="https://www.linkedin.com/in/tanujp/" target="blank"> <img alt="LinkedIn URL" src="https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftanujp%2F"> </a>
 <!--   Twitter -->
-  <a href="https://twitter.com/tanujp99" target="blank"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/tanujp99?label=Twitter&style=social"> </a>
+  <a href="https://twitter.com/tanujpalaspagar" target="blank"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/tanujp99?label=Twitter&style=social"> </a>
 <!--   Instagram -->
   <a href="https://instagram.com/tanujpalaspagar" target="blank"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=instagram&logo=instagram&style=social&url=https%3A%2F%2Finstagram.com%2Ftanujp99"> </a>
   <a href="" target="blank">  </a>
