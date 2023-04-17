@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img height=145 width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanujp99&theme=calm&layout=compact&hide_border=true&langs_count=6&border_radius=12" />
 </div>
 
-<br><br><br><br><br>
+<br><br>
 <!-- 
 <div align="right">
 <a href="https://indiafightscorona.giveindia.org">
