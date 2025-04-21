@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <!--   orange:#FFB86C blue: #8BE9FD green: #2FDE98 -->
 </div>
 
+<!--
 <br>
 
 <div align="center">
@@ -30,6 +31,7 @@ Here are some ideas to get you started:
 
   <img height=145 width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanujp99&theme=calm&layout=compact&hide_border=true&langs_count=6&border_radius=12" />
 </div>
+-->
 
 <br><br>
 <!-- 
