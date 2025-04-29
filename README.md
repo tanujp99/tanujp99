@@ -18,30 +18,25 @@ Here are some ideas to get you started:
 <!--   orange:#FFB86C blue: #8BE9FD green: #2FDE98 -->
 </div>
 
-<!--
+
 <br>
 
 <div align="center">
-  <img align="center" width=450 src="https://github-profile-trophy.vercel.app/?username=tanujp99&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=apprentice&column=3&margin-w=32&margin-h=15&no-bg=false&no-frame=true"/>
+  <img align="center" width=450 src="https://github-profile-trophy.vercel.app/?username=tanujp99&rank=SECRET,SSS,SS,S,AAA,AA&theme=apprentice&column=3&margin-w=32&margin-h=15&no-bg=false&no-frame=true"/>
 </div>
 
 <br>
+
+<!--
 <div align="center">
   <img height=170 width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=tanujp99&theme=calm&count_private=true&include_all_commits=true&&disable_animations=false&show_icons=false&hide=issues,contribs,stars&hide_border=true&border_radius=12" />
-
   <img height=145 width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanujp99&theme=calm&layout=compact&hide_border=true&langs_count=6&border_radius=12" />
 </div>
 -->
 
+
+[![Tanuj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tanujp99&theme=material)](https://github.com/tanujp99/github-readme-activity-graph)
 <br><br>
-<!-- 
-<div align="right">
-<a href="https://indiafightscorona.giveindia.org">
-<img width="125" src="https://d2wvdrxmr8p0wf.cloudfront.net/static/giveindia.svg" alt="Leave no one Behind: COVID19" />
-</a>
-<br margin="0">
-COVID help
-</div> -->
 
 <br>
 
